@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header
+{
+    margin:80px 50px 40px 50px;
+    text-align: center;
+    margin-bottom: 100px;
+    background-color: rgb(0, 0,89);
+}
+
+p{
+    font-size: 25px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: #fff;
+    
+}
+h1{
+    padding: 30px;
+    color: yellow;
+}
+h2
+{
+
+    text-align: center;
+    margin-bottom: 60px;
+}
